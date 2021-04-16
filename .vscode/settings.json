@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/tantran/python3.8-venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    //"python.linting.enabled": true,
+}
